@@ -20,7 +20,7 @@
 
 # Test Framework Improvement
 
-  ***Add Page Object Model(POM) to the Project**
+  **Add Page Object Model(POM) to the Project**
   - It makes ease in maintaining the code 
   - Makes code readable
   - Makes the code reusable
